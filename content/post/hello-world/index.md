@@ -1,19 +1,20 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: Hello :)
+description: this is my first post on new blog
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2022-10-22 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - Life
 tags:
-    - Example Tag
 ---
+Hello World!
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+This is my new blog.
+previously I was writing some posts about my thoughts on software engineering and lifestyle in persian
+which can be found on [1saeedsalehi.github.io](https://1saeedsalehi.github.io)
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
+I've decided to write posts in English, So created this brand-new website with `Hugo`
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+
