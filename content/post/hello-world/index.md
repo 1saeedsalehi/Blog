@@ -14,7 +14,7 @@ This is my new blog.
 previously I was writing some posts about my thoughts on software engineering and lifestyle in persian
 which can be found on [1saeedsalehi.github.io](https://1saeedsalehi.github.io)
 
-I've decided to write posts in English, So created this brand-new website with `Hugo`
+I've decided to write posts in English, So created this brand-new static website with `Hugo`
 
 
 

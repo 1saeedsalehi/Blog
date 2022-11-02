@@ -22,3 +22,12 @@ url = "https://twitter.com/1saeedsalehi"
 
 [social.params]
 icon = "brand-twitter"
+
+
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:hi@1saeed.dev"
+
+[social.params]
+icon = "icon-mail"
